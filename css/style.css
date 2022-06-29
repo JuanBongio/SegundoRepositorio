@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+html{
+	font-size: 62.5;	
+}
+
+
+*{
+	font-family: 'EB Garamond', serif;
+	font-size: 1rem;
+	line-height: 1,5rem;
+	font-style:
+	padding: 0;
+	margin: 0;
+	
+}
