@@ -7,10 +7,40 @@ html{
 
 *{
 	font-family: 'EB Garamond', serif;
-	font-size: 1rem;
-	line-height: 1,5rem;
-	font-style:
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	font-style: italic;
 	padding: 0;
 	margin: 0;
-	
+	}
+
+.logo{
+	width: 10%;
 }
+
+.logoMain{
+	width: 100%;
+}
+
+
+
+.backGround{
+	background-color: #000000;
+}
+
+imagenMain{
+	width: 100%;
+	height: auto;
+}
+
+.eslogan p{
+	font-size: 2.5rem;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+}
+
+
+/*formulario*/
+

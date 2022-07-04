@@ -1,0 +1,24 @@
+form{
+    width: 450px;
+    margin: auto;
+    background: rgb(255, 255, 255,0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+
+h2{
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+}
